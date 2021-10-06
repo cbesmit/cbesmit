@@ -62,13 +62,13 @@ Me dedico al desarrollo de sistemas Web y dispositivos móviles
 
 ## 📫 Me encuentras aquí
 <p align="center">
-  <a href="https://besmit.com/"><img alt="Home" height="32" width="32" src="https://img.icons8.com/color/48/000000/web.png"></a>
-  <a href="https://twitter.com/Besmit_"><img alt="Twitter" height="32" width="32" src="https://img.icons8.com/color/48/000000/twitter--v1.png"></a>
-  <a href="https://www.linkedin.com/in/besmit/"><img alt="Linkedin" height="32" width="32" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
-  <a href="https://t.me/besmit"><img alt="Telegram" height="32" width="32" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"></a>
-  <a href="https://discordapp.com/users/812396239807184916"><img alt="Discord" height="32" width="32" src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"></a>
-  <a href="https://github.com/cbesmit"><img alt="Github" height="32" width="32" src="https://img.icons8.com/fluency/48/000000/github.png"></a>
-  <a href="https://www.youtube.com/channel/UCbm9gOE8lkfgTcPb93I-maA"><img alt="Youtube" height="32" width="32" src="https://img.icons8.com/fluency/48/000000/youtube-play.png"></a>
+  <a href="https://besmit.com/"><img alt="Home" height="48" width="48" src="https://img.icons8.com/color/48/000000/web.png"></a>
+  <a href="https://twitter.com/Besmit_"><img alt="Twitter" height="48" width="48" src="https://img.icons8.com/color/48/000000/twitter--v1.png"></a>
+  <a href="https://www.linkedin.com/in/besmit/"><img alt="Linkedin" height="48" width="48" src="https://img.icons8.com/color/48/000000/linkedin.png"></a>
+  <a href="https://t.me/besmit"><img alt="Telegram" height="48" width="48" src="https://img.icons8.com/color/48/000000/telegram-app--v1.png"></a>
+  <a href="https://discordapp.com/users/812396239807184916"><img alt="Discord" height="48" width="48" src="https://img.icons8.com/fluency/48/000000/discord-new-logo.png"></a>
+  <a href="https://github.com/cbesmit"><img alt="Github" height="48" width="48" src="https://img.icons8.com/fluency/48/000000/github.png"></a>
+  <a href="https://www.youtube.com/channel/UCbm9gOE8lkfgTcPb93I-maA"><img alt="Youtube" height="48" width="48" src="https://img.icons8.com/fluency/48/000000/youtube-play.png"></a>
 </p>
 
 
